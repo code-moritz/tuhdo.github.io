@@ -7,16 +7,16 @@
   screen.請記住，你可以通過屏幕右上角的浮動目录随時訪問本章節的任何部分。
 
 - Many people asked how this manual can be "mini", since it is pretty
-  big for an online single page article. Yes, if this page is exported
-  to PDF, it is more than 40 pages. However, this manual is "mini"
+  big for an online single page article. 許多人問為什麽這個手册能叫“迷你”，因為它對於一個單頁文章中相當大。Yes, if this page is exported
+  to PDF, it is more than 40 pages. 是的，如果這頁文章輸出成為PDF，它將會超過40頁。However, this manual is "mini"
   relative to the size of the official Emacs manual, which is more
-  than 600 pages. That's why.
+  than 600 pages. That's why.但是，這份手册相對官方手册大小是迷你了，官方手册有600頁。這就是為什麽.
 
 - If you find the page is loading too slow for you, you can always
   clone the git repo of this mini manual and read it offline:
-  https://github.com/tuhdo/tuhdo.github.io
+  https://github.com/tuhdo/tuhdo.github.io如果你發篇目這個頁面加載起來太慢了，你可以克隆一份此迷你書的git 庫離線閱占賣。
 
-* Why Emacs?
+* Why Emacs?為什麽是Emacs?
 :PROPERTIES:
 :ID:
 :ID:       76607dbd-b97c-43dd-975b-3236192408b6
