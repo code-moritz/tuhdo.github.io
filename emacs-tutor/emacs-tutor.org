@@ -46,7 +46,7 @@ kernel source tree with ease//通過這個手册，你將會能輕松瀏覽Linux
     [[file:static/jump_headers.gif][file:static/jump_headers.gif]]
 
   - Autocompletion//自動補全: Pay attention to completion candidates when
-    ~include <linux/printk.h>~ is present and when it's not.
+    ~include <linux/printk.h>~ is present and when it's not//注意無論~include <linux/printk.h>~是在呈現，都會有相應補全的候選對像.
 
     [[file:static/auto_complete.gif][file:static/auto_complete.gif]]
 
@@ -64,7 +64,7 @@ kernel source tree with ease//通過這個手册，你將會能輕松瀏覽Linux
     [[file:static/c-ide/gdb-many-windows.gif][file:static/c-ide/gdb-many-windows.gif]]
     #+END_CENTER
 
-- Diff between current editing file and latest file revision:
+- Diff between current editing file and latest file revision//當前編輯文件和最後一次編輯版本之間對比:
 
   [[file:static/vc-diff.jpg][file:static/vc-diff.jpg]]
 
@@ -72,25 +72,25 @@ kernel source tree with ease//通過這個手册，你將會能輕松瀏覽Linux
 
   [[file:static/magit.gif][file:static/magit.gif]]
 
-- Live Grep:
+- Live Grep//事時搜索:
 
   [[file:static/live_grep.gif][file:static/live_grep.gif]]
 
 - Quickly select any file in a directory under a Version Control
-  System, for example from the Linux kernel. Note that in the demos
-  you may see me type in the commands. You can think of it like the
+  System, for example from the Linux kernel//在版本控制係統中的文件夹下快速選擇多個文件,例如Linux kernel. Note that in the demos
+  you may see me type in the commands//注意你在演示中，你可能看到我在輸入命令行. You can think of it like the
   start menu in Windows, but those commands can actually be executed
-  quickly with a shortcut.
+  quickly with a shortcut//你可能想像Windows的開始菜單，但實際上命令的執行更為簡潔.
 
   [[file:static/helm-projectile/helm-projectile-find-files-1.gif][file:static/helm-projectile/helm-projectile-find-files-1.gif]]
 
-- Quickly select any file/directory from a previous working session:
+- Quickly select any file/directory from a previous working session//快速選擇多個文件/文件夹從前一個工作事務中:
 
   [[file:static/helm-buffer-list.gif][file:static/helm-buffer-list.gif]]
 
-- Emacs is a PDF Reader: I can search text in the PDF file with
-  highlighting and a table of contents side by side. All can be
-  controlled with keyboard.
+- Emacs is a PDF Reader//Emacs是一個PDF閱讀器: I can search text in the PDF file with
+  highlighting and a table of contents side by side//我能搜索文本在PDF文件中，并把結果高亮和并排顯示. All can be
+  controlled with keyboard//所有都可以通過键盤控制.
 
   [[file:static/emacs-read-pdf.gif][file:static/emacs-read-pdf.gif]]/
 
@@ -100,15 +100,15 @@ Finally, [[http://jtnimoy.net/workviewer.php?q%3D178][Emacs is featured in Tron 
 :PROPERTIES:
 :ID:       6cbf58f3-6986-4c27-8e04-f25c8bec778a
 :END:
-Let's look at part of the Emacs manual:
+Let's look at part of the Emacs manual讓我們來看手册的這部分:
 
 [[file:static/emacs-manual-toc.gif][file:static/emacs-manual-toc.gif]]
 
 "All about handling files" is inside the =Files= entry, which includes
 how to open files, save files, revert and auto-revert files, compare
-files..., many things from basic to advanced. If you are a beginner
+files..., many things from basic to advanced//所有處理的文件是在=文件（Files）=入口，此入口包括了如何打開文件，保存文件，獲取和自動保存文件，對比文件....，及許多基礎和高級的功能. If you are a beginner
 reading the Emacs manual, you have to actively search the manual to
-learn how to do the basic common tasks you know from other editors.
+learn how to do the basic common tasks you know from other editors//如果你是一個初學者閱讀這份Emacs手册，你必須行動起來在手册中找寻和學習如何去做在其他編輯器中日常基本任務.
 
 It would take a long time before you can start using Emacs for basic
 operations (e.g. opening files) if you read the manual cover to
