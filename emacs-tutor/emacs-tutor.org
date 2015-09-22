@@ -27,7 +27,7 @@ think/Emacs是一個編程平臺，不僅僅是人們感受到的編輯器. For 
 
 Take a [[http://www.gnu.org/software/emacs/tour/][tour]] from the official Emacs homepage/在官方Emacs主頁上獲取一份快速入門文檔.
 
-Here is my personal tour, *with 3rd party plugins added*//這是我個人速成手册，*并加入了第三方插件*. Don't worry
+Here is my personal tour, *with 3rd party plugins added*  //這是我個人速成手册，*并加入了第三方插件*. Don't worry
 if your Emacs does not look like the screenshots//不用担心如果你的Emacs不像屏幕所示的樣子. You can have
 something like mine and even better, but for now you need to get a
 solid foundation//你能有一些如最小或者更好事情，但是現在你需要獲得更為堅實的基礎. The screenshots are just for show//截屏僅僅是為了展示. Even though,
