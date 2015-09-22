@@ -14,7 +14,7 @@
 
 - If you find the page is loading too slow for you, you can always
   clone the git repo of this mini manual and read it offline:
-  https://github.com/tuhdo/tuhdo.github.io如果你發篇目這個頁面加載起來太慢了，你可以克隆一份此迷你書的git 庫離線閱占賣。
+  https://github.com/tuhdo/tuhdo.github.io  如果你發篇目這個頁面加載起來太慢了，你可以克隆一份此迷你書的git 庫離線閱占賣。
 
 * Why Emacs?為什麽是Emacs?
 :PROPERTIES:
@@ -34,31 +34,31 @@ solid foundation//你能有一些如最小或者更好事情，但是現在你�
 after going through this guide, you will be able to browse the Linux
 kernel source tree with ease//通過這個手册，你將會能輕松瀏覽Linux Kernel代碼樹.
 
-- Performance: Editing a 39MB C source file with no problem. But well,
+- Performance//性能: Editing a 39MB C source file with no problem//編輯39MB的C代碼文件沒有問題. But well,
   it's not your favorite editor's fault if it crashes from editing
-  such a large source file.
+  such a large source file//这是不是你喜欢的编辑器的错，如果从编辑这么大的源文件崩溃.
 
   [[file:static/performance.gif][file:static/performance.gif]]
 
-- Programming:
-  - Jump to any header file:
+- Programming//編碼:
+  - Jump to any header file//跳轉到任何頭文件:
 
     [[file:static/jump_headers.gif][file:static/jump_headers.gif]]
 
-  - Autocompletion: Pay attention to completion candidates when
+  - Autocompletion//自動補全: Pay attention to completion candidates when
     ~include <linux/printk.h>~ is present and when it's not.
 
     [[file:static/auto_complete.gif][file:static/auto_complete.gif]]
 
-  - Showing function arguments:
+  - Showing function arguments//顯示函數參數:
 
     [[file:static/func_args.jpg][file:static/func_args.jpg]]
 
-  - Quickly comment multiple lines:
+  - Quickly comment multiple lines//快速注釋多行:
 
     [[file:static/comment.gif][file:static/comment.gif]]
 
-  - GDB:
+  - GDB//GDB調試:
 
     #+BEGIN_CENTER
     [[file:static/c-ide/gdb-many-windows.gif][file:static/c-ide/gdb-many-windows.gif]]
